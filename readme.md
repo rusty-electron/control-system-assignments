@@ -43,5 +43,5 @@ The laboratory course on Control Systems-I is designed to provide the student wi
 
 ## Suggested Reading:
 
-*Coming soon*
+* Norman Nise - Control System Engineering - Wiley
             
