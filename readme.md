@@ -40,6 +40,12 @@ The laboratory course on Control Systems-I is designed to provide the student wi
 
     * *Control Systems*
         * Time response functions
+* **Week 4:**
+    1. Plotting root locus
+    1. Obtain the value of gain, pole location and overshoot from the root locus plot
+* **Week 5:**
+    1. Bode plot
+    1. Nyquist plot
 
 ## Suggested Reading:
 
